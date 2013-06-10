@@ -10,7 +10,7 @@ This project demonstrates how to create a MultiFlow layout for yourself. There's
 Building the project
 ------------------
 
-In order to build this project you'll need a copy of ShinobiCharts/Grids/Essentials. If you don't have it yet, you can download a free trial from the [ShinobiEssentials website](http://www.shinobicontrols.com/shinobiessentials/).
+In order to build this project you'll need a copy of ShinobiEssentials. If you don't have it yet, you can download a free trial from the [ShinobiEssentials website](http://www.shinobicontrols.com/shinobiessentials/).
 
 Once you've downloaded and unzipped ShinobiEssentials, open up the project in XCode, and drag ShinobiEssentials.embeddedframework from the finder into Xcode's 'frameworks' group, and XCode will sort out all the header and linker paths for you.
 
