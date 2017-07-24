@@ -22,7 +22,7 @@ If you’re using the trial version you’ll need to add your license key. To do
 
     - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
     {
-        [SEssentials setLicenseKey:@"your license key"];
+        [SEssentials setTrialKey:@"your trial key"];
         …
     }
 
